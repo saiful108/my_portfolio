@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
     const NavItem=<>
-        <li className="text-2xl p-4"><Link>About</Link></li>
+        <li className="text-2xl p-4"><Link to=''>About</Link></li>
         <li className="text-2xl p-4"><Link>Skill</Link></li>
         <li className="text-2xl p-4"><Link>Contact</Link></li>
         <li className="text-2xl p-4"><Link>Resume</Link></li>
