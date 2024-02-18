@@ -6,7 +6,7 @@ import { router } from './Router/Router.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-  <div className='bg-[#111A28] text-white'>
+  <div className='bg-[#111A28] text-white max-w-7xl mx-auto px-10'>
   <RouterProvider router={router} />
   </div>
      

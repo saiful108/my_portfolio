@@ -22,7 +22,8 @@ const Navbar = () => {
        {NavItem}
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">daisyUI</a>
+   {/* logo */}
+   <img className="w-24" src="https://i.ibb.co/7vw6tmN/White-and-Black-Hexagon-Hipster-Logo-removebg-preview.png" alt="logo"/>
   </div>
   <div className="navbar-end hidden lg:flex">
     <ul className="menu menu-horizontal px-1">

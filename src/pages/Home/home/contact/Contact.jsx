@@ -2,7 +2,7 @@
 
 const Contact = () => {
     return (
-        <div className='bg-[#111A28] text-white grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mt-10'>
+        <div className='bg-[#111A28] text-white grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mt-48'>
         {/* 1 */}
          <div className="flex flex-col">
 <p>I am interested in working with any company that thinks my skill <br/>
@@ -10,7 +10,7 @@ const Contact = () => {
  please let me know. Or you can just 'say hi' to me.</p>
 
 <div>
-<button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg  bg-green-500 border-0 text-white">Contact Me</button>
+<button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg  bg-green-500 border-0 text-white mt-10">Contact Me</button>
 </div>
 
          </div> 

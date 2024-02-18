@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <>
         <div>
-        <div className="px-10">
+        <div>
         <h1 className="lg:text-green-500 text-2xl sm:text-md md:text-lg font-black">Hello! I am</h1>
         <h1 className="lg:text-8xl sm:text-md md:text-lg font-medium py-6">Saiful Islam</h1>
         <h1 className="text-green-500 text-2xl font-medium ">Front-End Developer</h1>
