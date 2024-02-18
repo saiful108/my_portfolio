@@ -6,12 +6,12 @@ const Intro = () => {
         {/* 1 */}
          <div className="flex flex-col">
 <p className="leading-9">
-Hello there! I'm Saiful Islam, a driven Front-end developer with a passion for <br/>
- crafting innovative solutions. My expertise spans across web and at the heart <br/>
- of it all lies my love for JavaScript. I thrive on harnessing the power of <br/>
- JavaScript to create dynamic and accessible experiences, making the web more <br/>
- inclusive and open to all.I've honed my skills and am now eagerly seeking <br/>
- exciting job opportunities that align with my interests. Let's collaborate <br/>
+Hello there! I'm Saiful Islam, a driven Front-end developer with a passion for 
+ crafting innovative solutions. My expertise spans across web and at the heart 
+ of it all lies my love for JavaScript. I thrive on harnessing the power of 
+ JavaScript to create dynamic and accessible experiences, making the web more 
+ inclusive and open to all.I've honed my skills and am now eagerly seeking 
+ exciting job opportunities that align with my interests. Let's collaborate 
  and bring your ideas to life!
 </p>
 

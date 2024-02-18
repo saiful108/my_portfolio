@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const Contact = () => {
@@ -37,7 +38,7 @@ const Contact = () => {
          <p className='text-3xl font-semibold'>
          Social        
           </p>
-          <p>Facebook:- <span className="font-thin">(Slow response)</span></p>
+          <p><Link target=" " to={`https://www.facebook.com/mohammadSaiful4061470?mibextid=ZbWKwL`}>Facebook</Link> <span className="font-thin">(Slow response)</span></p>
          </div>
 
 
@@ -45,7 +46,7 @@ const Contact = () => {
          <p className='text-3xl font-semibold'>
          Address       
           </p>
-          <p>Gouripur, Daudkandi, Cumilla, Bangladesh - 3517</p>
+          <p>Chittagong, Bangladesh</p>
          </div>
 
           </div>
