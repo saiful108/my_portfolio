@@ -3,11 +3,13 @@ import Navbar from "../pages/Navbar/Navbar";
 
 
 
+
 const Main = () => {
     return (
         <div>
         <Navbar></Navbar>
             <Outlet></Outlet>
+           
            
         </div>
     );

@@ -1,8 +1,12 @@
 import Intro from "./home/Intro/Intro";
+import Contact from "./home/contact/Contact";
+import Skills from "./home/skills/Skills";
+
 
 
 const Home = () => {
     return (
+        <>
         <div>
         <div className="px-10">
         <h1 className="lg:text-green-500 text-2xl sm:text-md md:text-lg font-black">Hello! I am</h1>
@@ -14,8 +18,13 @@ const Home = () => {
 
         </div>
         </div>
-<Intro></Intro>
+
+
         </div>
+        <Intro></Intro>
+        <Contact></Contact>
+        <Skills></Skills>
+        </>
     );
 };
 
